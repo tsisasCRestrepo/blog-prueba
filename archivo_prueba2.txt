@@ -2,4 +2,4 @@ este es otro archivo de prueba.
 esta es una linea agrega desde la rama hotfix.
 ahora si esta es una linea agregada desde branch hotfix en Github.
 esta es una linea agregada desde el fork criscali.
-Se agrega esta linea desde el proyecto original.
+Se agrega esta linea desde el proyecto original, continuo con la edicion de esta linea desde el fork criscali.
